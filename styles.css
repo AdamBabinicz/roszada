@@ -481,6 +481,9 @@ footer .date {
   left: 0;
   right: 0;
 }
+.newsletter-container h4 {
+  text-transform: unset;
+}
 .newsletter-container p {
   margin-top: -2rem;
 }
@@ -617,9 +620,9 @@ footer .date {
   .social-icons i {
     opacity: 1;
   }
-  .newsletter-btn {
+  /* .newsletter-btn {
     margin-left: 7.5rem;
-  }
+  } */
   footer .date {
     bottom: 6.5rem;
   }
