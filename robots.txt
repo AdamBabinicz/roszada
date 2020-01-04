@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://uks-roszada-radom.netlify.com/sitemap.xml
+Sitemap: http://roszada.radom.pl/sitemap.xml

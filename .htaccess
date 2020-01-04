@@ -1,15 +1,11 @@
 # przekierowanie dla przykładu www -> bez www
 RewriteEngine On
 
-RewriteCond %{HTTP_HOST} !^www.uks-roszada-radom.netlify.com$ [NC]
-RewriteRule ^(.*)$ http://uks-roszada-radom.netlify.com/$1 [L,R=301]
-RewriteRule ^index.php$ https://uks-roszada-radom.netlify.com/ [R=301,L]
-RewriteRule ^index.html$ http://www.uks-roszada-radom.netlify.com [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.roszada.radom\.pl$
+RewriteRule ^/?$ "http\:\/\/roszada.radom\.pl\/" [R=301,L]
+RewriteRule ^index.php$ https://roszada.radom.pl/ [R=301,L]
+RewriteRule ^index.html$ http://www.roszada.radom.pl [R=301,L]
 RewriteRule ^index.(php|html|htm)$/ [R=301,L]
-
-RewriteEngine On
-RewriteCond %{HTTPS} !=on
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
 RewriteRule .* ? [F,L]
@@ -21,11 +17,6 @@ RewriteEngine On
 RewriteCond %{REQUEST_URI} [^\./\\] [NC]
 RewriteCond %{REQUEST_URI}.htm -f [NC]
 RewriteRule ^(.+)$ $1.htm [L]
-
-<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
-Order Allow,Deny
-Deny from all
-</FilesMatch>
 
 # BEGIN Expire headers
 <ifModule mod_expires.c>
