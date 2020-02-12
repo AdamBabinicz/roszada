@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://roszada.radom.pl/sitemap.xml
+Sitemap: http://www.roszada.radom.pl/sitemap.xml
