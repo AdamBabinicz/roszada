@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  /* height: 100vh; */
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),
+    url("images/chess-1215079_1920.jpg") center/cover no-repeat;
+}
+.wrapper {
+  margin-top: 5rem;
+  position: relative;
+  width: 100%;
+  min-height: 100%;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+}
+.back-to-top {
+  display: none;
+}
+@media screen and (max-width: 640px) {
+  .wrapper {
+    padding: 1rem;
+  }
+  .swiper-container {
+    max-width: 100%;
+  }
+  .item__slide {
+  }
+  .item__img img {
+  }
+}
+.swiper-container {
+  width: 900px;
+  height: 650px;
+  /* height: 100%; */
+}
+.wrapper__title {
+  color: #333;
+  font-size: 50px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+.item__slide {
+  /* padding: 40px 0px 60px 0px; */
+}
+.item__img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.item__img img {
+  max-width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.swiper__pagination-bullet {
+  width: 25px;
+  height: 25px;
+  border: 10px solid #000;
+  background: #fff;
+  line-height: 15px;
+}
+.item__prev,
+.item__next {
+  color: #333;
+  width: 5rem;
+  height: 5rem;
+  background: rgba(255, 255, 255, 0.609);
+  padding: 3rem;
+  transition: all 0.3s ease-in-out;
+}
+.item__prev:hover,
+.item__next:hover {
+  color: #fff;
+  background: rgba(51, 51, 51, 0.582);
+}

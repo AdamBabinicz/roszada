@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Anton|Cabin|Source+Sans+Pro:400,900&display=swap&subset=latin-ext');
+@import url("https://fonts.googleapis.com/css?family=Anton|Cabin|Source+Sans+Pro:400,900&display=swap&subset=latin-ext");
 *,
 *::before,
 *::after {
@@ -7,9 +7,9 @@
   box-sizing: border-box;
 }
 :root {
-  --main-font: 'Source Sans Pro', sans-serif;
-  --secondary-font: 'Anton', sans-serif;
-  --body-font: 'Cabin', sans-serif;
+  --main-font: "Source Sans Pro", sans-serif;
+  --secondary-font: "Anton", sans-serif;
+  --body-font: "Cabin", sans-serif;
   --main-font-color-dark: #252525;
   --secondary-font-color: #c59d5f;
   --body-font-color: #515151;
@@ -22,6 +22,12 @@ html {
 }
 body {
   overflow-x: hidden;
+}
+.bg {
+  background: rgba(0, 0, 0, 0.1);
+}
+mark {
+  background: rgba(240, 182, 22, 0.246);
 }
 section {
   padding: 3.9rem 0;
@@ -55,14 +61,24 @@ header {
   width: 100%;
   position: absolute;
   top: 0;
-  left: ;
+  left: 0;
   z-index: 1;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(0, 0, 0, 0.5)),
+    to(transparent)
+  );
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
 }
 .nav {
   height: 7.2rem;
+  display: -webkit-box;
   display: flex;
+  -webkit-box-align: center;
   align-items: center;
+  -webkit-box-pack: center;
   justify-content: center;
 }
 .menu-toggle {
@@ -92,7 +108,10 @@ header {
   height: 100vh;
   background: var(--main-font-color-dark);
   padding: 4.4rem;
+  display: -webkit-box;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   flex-direction: column;
   justify-content: space-around;
   z-index: 1250;
@@ -101,14 +120,17 @@ header {
   -moz-transform: translateX(-100%);
   -ms-transform: translateX(-100%);
   -o-transform: translateX(-100%);
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: -webkit-transform 0.5s;
   transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
   -webkit-transition: transform 0.5s;
   -moz-transition: transform 0.5s;
   -ms-transition: transform 0.5s;
   -o-transition: transform 0.5s;
 }
 .nav::before {
-  content: '';
+  content: "";
   position: fixed;
   top: 0;
   left: 0;
@@ -172,9 +194,19 @@ header {
 .hero {
   width: 100%;
   height: 100vh;
+  background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.5)),
+      to(rgba(0, 0, 0, 0.5))
+    ),
+    url("images/chess-1215079_1920.jpg") center/cover no-repeat;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('images/chess-1215079_1920.jpg') center/cover no-repeat;
+    url("images/chess-1215079_1920.jpg") center/cover no-repeat;
+  display: -webkit-box;
   display: flex;
+  -webkit-box-align: center;
   align-items: center;
   text-align: center;
 }
@@ -188,6 +220,7 @@ header {
   opacity: 0;
   animation: fadeUp 0.5s forwards;
   -webkit-animation: fadeUp 0.5s forwards;
+  -webkit-animation-delay: 0.5s;
   animation-delay: 0.5s;
 }
 .first-letter {
@@ -206,13 +239,25 @@ header {
   animation: scale 0.5s forwards;
   -webkit-animation: scale 0.5s forwards;
 }
+span.arrow {
+  font-size: 5rem;
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+span.arrow:hover {
+  color: #ccc;
+  cursor: pointer;
+}
 .city {
   color: #fff;
   font-weight: 600;
 }
 .separator {
+  display: -webkit-box;
   display: flex;
+  -webkit-box-align: center;
   align-items: center;
+  -webkit-box-pack: center;
   justify-content: center;
 }
 .line {
@@ -224,11 +269,12 @@ header {
   opacity: 0;
   animation: grow 2s forwards;
   -webkit-animation: grow 2s forwards;
+  -webkit-animation-delay: 0.9s;
   animation-delay: 0.9s;
 }
 .line-right::before,
 .line-left::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -240,6 +286,7 @@ header {
   opacity: 0;
   animation: grow 0.5s forwards;
   -webkit-animation: grow 0.5s forwards;
+  -webkit-animation-delay: 1.2s;
   animation-delay: 1.2s;
 }
 .line-right::before {
@@ -257,12 +304,14 @@ header {
   opacity: 0;
   animation: spin 0.5s forwards;
   -webkit-animation: spin 0.5s forwards;
+  -webkit-animation-delay: 2.1s;
   animation-delay: 2.1s;
 }
 .single-animation {
   opacity: 0;
   animation: fadeDown 0.5s forwards;
   -webkit-animation: fadeDown 0.5s forwards;
+  -webkit-animation-delay: 1.5s;
   animation-delay: 1.5s;
 }
 .headline-description h5 {
@@ -324,6 +373,23 @@ header {
 .chess-info {
   text-align: center;
 }
+.chess-info-img img {
+  max-width: 100%;
+  width: 60rem;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+}
+.chess-info-img {
+  position: relative;
+}
+.chess-info-img p.text {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  right: 2rem;
+  color: #fff;
+  font-size: 2rem;
+}
 .chess-description {
   margin-bottom: 3rem;
 }
@@ -345,7 +411,7 @@ header {
   -o-transition: color 0.5s;
 }
 .body-btn::before {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -366,13 +432,20 @@ header {
 .body-btn:focus::before {
   background: var(--main-font-color-dark);
 }
+.marg {
+  margin-top: 2rem;
+
+  text-align: center;
+}
 /* Tasteful recipes */
 .chess-section {
-  background: url('images/chess-1483735_1920.jpg') center/cover no-repeat;
+  background: url("images/chess-1483735_1920.jpg") center/cover no-repeat;
 }
 .between {
   min-height: 65vh;
+  display: -webkit-box;
   display: flex;
+  -webkit-box-align: center;
   align-items: center;
 }
 /* Discover our chess */
@@ -387,13 +460,21 @@ header {
 }
 /* The perfect blend */
 .perfect-blend {
-  background: url('images/chess-4254108_1920.jpg') center/cover no-repeat;
+  background: url("images/chess-4254108_1920.jpg") center/cover no-repeat;
 }
 /* Footer */
 footer {
   padding: 7.9rem 0;
+  background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.5)),
+      to(rgba(0, 0, 0, 0.5))
+    ),
+    url("images/chess-1155421_1920.jpg") center/cover no-repeat;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('images/chess-1155421_1920.jpg') center/cover no-repeat;
+    url("images/chess-1155421_1920.jpg") center/cover no-repeat;
   color: #fff;
   text-align: center;
   position: relative;
@@ -457,8 +538,15 @@ footer {
 .social-icons {
   list-style: none;
   margin-bottom: 5.4rem;
+  display: -webkit-box;
   display: flex;
+  -webkit-box-pack: center;
   justify-content: center;
+  align-items: center;
+}
+.touch {
+  margin-left: 2rem;
+  width: 2.5rem;
 }
 .social-icons i {
   font-size: 2rem;
@@ -520,12 +608,50 @@ footer .date {
   margin-left: 10.5rem;
 } */
 /*popup*/
+.popup_box {
+  position: absolute;
+  width: 85%;
+  min-height: 465vh;
+  height: auto;
+  background: #fff;
+  z-index: 10;
+  top: 333%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  padding: 4rem 0;
+  box-shadow: inset 1rem 1rem 4rem rgba(0, 0, 0, 0.1),
+    inset -1rem -1rem 1rem rgba(255, 255, 255, 0.5);
+  transition: opacity 0.5s;
+  opacity: 1;
+}
+.popup_box .popup_img {
+  width: 25%;
+  position: absolute;
+  right: 6rem;
+  bottom: 2rem;
+}
+.popup_box.close {
+  opacity: 0;
+  display: none;
+}
+.popup_box .text {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 2.5rem;
+}
+.popup_text {
+  text-align: left;
+  z-index: -1;
+}
 .popup {
   height: 100vh;
   width: 100%;
   position: fixed;
   top: 0;
   left: 0;
+  margin: 0 auto;
   background: rgba(0, 0, 0, 0.8);
   z-index: 9999;
   opacity: 0;
@@ -540,14 +666,20 @@ footer .date {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   width: 75%;
+  height: 100vh;
+  display: -webkit-box;
   display: flex;
+  overflow-y: scroll;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   flex-direction: column;
+  -webkit-box-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
   align-items: center;
   text-align: center;
   line-height: 2;
   background: #fff;
-  -webkit-box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
   border-radius: 3px;
   overflow: hidden;
@@ -556,7 +688,7 @@ footer .date {
   transform: translate(-50%, -50%) scale(0.25);
   -webkit-transition: all 0.5s 0.2s;
   transition: all 0.5s 0.2s;
-  padding: 2rem 3rem;
+  padding: 3rem;
 }
 .popup__content h2 {
   font-size: 2rem;
@@ -581,20 +713,54 @@ footer .date {
 .popup__close:visited {
   color: #555;
   position: absolute;
-  top: 2vw;
-  right: 5vh;
+  /* top: 3rem;
+  right: 1vw; */
+  height: 20px;
+  width: 20px;
+  top: 0;
+  right: 10px;
   font-size: 3rem;
   text-decoration: none;
-  display: inline-block;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
   line-height: 1;
+  padding: 2rem 0;
 }
 .popup__close:hover {
   color: var(--mainBlue);
 }
+.kal h2 {
+  font-size: 1.5rem !important;
+  line-height: 2rem;
+}
+.kal p {
+  text-align: left;
+  line-height: 1.5rem;
+  font-size: 1rem;
+}
+p.kom {
+  flex-direction: column;
+  font-size: 1.8rem;
+  text-align: left;
+  line-height: 1.8;
+}
 /* Media queries */
 @media screen and (min-width: 900px) {
+  .popup_box {
+    max-height: 100vh;
+    width: 50%;
+    top: 233%;
+  }
+  .popup_box .popup_img {
+    width: 28%;
+    bottom: 4rem;
+  }
   section {
     padding: 7.9rem;
   }
@@ -602,6 +768,7 @@ footer .date {
     display: none;
   }
   .nav {
+    -webkit-box-pack: end;
     justify-content: flex-end;
   }
   .nav-list {
@@ -610,7 +777,10 @@ footer .date {
     height: initial;
     background: transparent;
     padding: 0;
+    -webkit-box-pack: initial;
     justify-content: initial;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
     flex-direction: row;
     transform: initial;
     -webkit-transform: initial;
@@ -638,7 +808,7 @@ footer .date {
   }
   .active::before {
     position: relative;
-    content: '';
+    content: "";
     position: absolute;
     width: 100%;
     height: 2px;
@@ -659,11 +829,20 @@ footer .date {
   .chess-description p {
     font-size: 1.8rem;
   }
+  p.kom {
+    flex-direction: column;
+    font-size: 2rem;
+    text-align: left;
+    line-height: 2;
+  }
   .chess-info {
+    display: -webkit-box;
     display: flex;
+    -webkit-box-align: center;
     align-items: center;
   }
   .chess-info > div {
+    -webkit-box-flex: 1;
     flex: 1;
   }
   .padding-right {
@@ -674,6 +853,23 @@ footer .date {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1.5rem;
   }
+
+  .kal h2 {
+    padding-top: 1vh;
+    font-size: 1.5rem !important;
+    line-height: 3rem;
+  }
+  .kal p {
+    text-align: left;
+    line-height: 2rem;
+    font-size: 1.5rem;
+  }
+  .cent {
+    text-align: center !important;
+  }
+  .marg {
+    margin-left: 3rem;
+  }
   .footer-content {
     max-width: 77.5rem;
     margin: auto;
@@ -683,6 +879,7 @@ footer .date {
     margin: 2rem auto;
   }
   .footer-content-divider {
+    display: -webkit-box;
     display: flex;
     justify-content: space-around;
   }
@@ -703,11 +900,34 @@ footer .date {
   .newsletter-container p {
     margin-top: 0;
   }
+  .popup__content {
+    padding: 3rem 4rem;
+    width: 75%;
+    height: 90vh;
+    overflow-y: scroll;
+  }
   .popup__content h2 {
     font-size: 3rem;
   }
 }
 /* Animations */
+@-webkit-keyframes fadeUp {
+  0% {
+    transform: translateY(4rem);
+    -webkit-transform: translateY(4rem);
+    -moz-transform: translateY(4rem);
+    -ms-transform: translateY(4rem);
+    -o-transform: translateY(4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+  }
+}
 @keyframes fadeUp {
   0% {
     transform: translateY(4rem);
@@ -723,6 +943,23 @@ footer .date {
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     -o-transform: translateY(0);
+  }
+}
+@-webkit-keyframes scale {
+  0% {
+    transform: scale(2);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
   }
 }
 @keyframes scale {
@@ -742,6 +979,15 @@ footer .date {
     -o-transform: scale(1);
   }
 }
+@-webkit-keyframes grow {
+  0% {
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 100%;
+  }
+}
 @keyframes grow {
   0% {
     width: 0;
@@ -749,6 +995,23 @@ footer .date {
   100% {
     opacity: 1;
     width: 100%;
+  }
+}
+@-webkit-keyframes spin {
+  0% {
+    transform: rotate(0);
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(0);
+    -o-transform: rotate(0);
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(-360deg);
+    -webkit-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
   }
 }
 @keyframes spin {
@@ -768,6 +1031,23 @@ footer .date {
     -o-transform: rotate(-360deg);
   }
 }
+@-webkit-keyframes fadeDown {
+  0% {
+    transform: translateY(-1rem);
+    -webkit-transform: translateY(-1rem);
+    -moz-transform: translateY(-1rem);
+    -ms-transform: translateY(-1rem);
+    -o-transform: translateY(-1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+  }
+}
 @keyframes fadeDown {
   0% {
     transform: translateY(-1rem);
@@ -783,6 +1063,22 @@ footer .date {
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     -o-transform: translateY(0);
+  }
+}
+@-webkit-keyframes up {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-1rem);
+    -webkit-transform: translateY(-1rem);
+    -moz-transform: translateY(-1rem);
+    -ms-transform: translateY(-1rem);
+    -o-transform: translateY(-1rem);
   }
 }
 @keyframes up {
