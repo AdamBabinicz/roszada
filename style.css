@@ -64,7 +64,7 @@ body {
 .swiper__pagination-bullet {
   width: 25px;
   height: 25px;
-  border: 10px solid #000;
+  border: 10px solid #fff;
   background: #fff;
   line-height: 15px;
 }
