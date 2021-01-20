@@ -7,6 +7,10 @@ RewriteRule ^index.php$ https://roszada.radom.pl/ [R=301,L]
 RewriteRule ^index.html$ http://www.roszada.radom.pl [R=301,L]
 RewriteRule ^index.(php|html|htm)$/ [R=301,L]
 
+RewriteEngine on
+
+RewriteRule otwarte-druzynowe-mistrzostwa-radomia-szkol-ponadpodstawowych-w-szachach galeria.html
+
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
 RewriteRule .* ? [F,L]
 

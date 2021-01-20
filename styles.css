@@ -243,6 +243,7 @@ span.arrow {
   font-size: 5rem;
   color: #fff;
   transition: all 0.3s ease-in-out;
+  margin-right: 1rem;
 }
 span.arrow:hover {
   color: #ccc;
@@ -383,12 +384,24 @@ span.arrow:hover {
   position: relative;
 }
 .chess-info-img p.text {
-  position: absolute;
+  /* position: absolute; */
   top: 2rem;
   left: 2rem;
   right: 2rem;
   color: #fff;
   font-size: 2rem;
+}
+.text h2 {
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+}
+.text a {
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+.text a:hover {
+  color: red;
 }
 .chess-description {
   margin-bottom: 3rem;
@@ -611,19 +624,26 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  min-height: 465vh;
+  /* min-height: 465vh; */
   height: auto;
   background: #fff;
   z-index: 10;
-  top: 333%;
+  /* top: 333%; */
+  /* left: 50%; */
+  top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -0%);
+  transform: translate(-50%, -0%);
   padding: 4rem 0;
   box-shadow: inset 1rem 1rem 4rem rgba(0, 0, 0, 0.1),
     inset -1rem -1rem 1rem rgba(255, 255, 255, 0.5);
   transition: opacity 0.5s;
   opacity: 1;
+}
+.popup_box strong {
+  font-size: 2rem;
+  outline: 1px solid red;
+  padding: 1rem 2rem;
 }
 .popup_box .popup_img {
   width: 25%;
@@ -642,7 +662,7 @@ footer .date {
   line-height: 2.5rem;
 }
 .popup_text {
-  text-align: left;
+  text-align: center;
   z-index: -1;
 }
 .popup {
@@ -660,6 +680,7 @@ footer .date {
   transition: all 0.3s;
 }
 .popup__content {
+  display: none;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -713,8 +734,6 @@ footer .date {
 .popup__close:visited {
   color: #555;
   position: absolute;
-  /* top: 3rem;
-  right: 1vw; */
   height: 20px;
   width: 20px;
   top: 0;
@@ -755,7 +774,7 @@ p.kom {
   .popup_box {
     max-height: 100vh;
     width: 50%;
-    top: 233%;
+    /* top: 233%; */
   }
   .popup_box .popup_img {
     width: 28%;
@@ -908,6 +927,12 @@ p.kom {
   }
   .popup__content h2 {
     font-size: 3rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .popup__close:link,
+  .popup__close:visited {
+    top: 2rem;
   }
 }
 /* Animations */
