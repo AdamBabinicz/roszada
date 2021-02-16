@@ -10,6 +10,7 @@ RewriteRule ^index.(php|html|htm)$/ [R=301,L]
 RewriteEngine on
 
 RewriteRule otwarte-druzynowe-mistrzostwa-radomia-szkol-ponadpodstawowych-w-szachach galeria.html
+RewriteRule zakonczenie-cyklu-20-turniejow-grand-prix-2020 galer.html
 
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
 RewriteRule .* ? [F,L]

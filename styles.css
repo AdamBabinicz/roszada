@@ -624,12 +624,12 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  /* min-height: 465vh; */
+  min-height: 485vh;
   height: auto;
   background: #fff;
   z-index: 10;
-  /* top: 333%; */
-  /* left: 50%; */
+  top: 333%;
+  left: 50%;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -0%);
@@ -642,12 +642,19 @@ footer .date {
 }
 .popup_box strong {
   font-size: 2rem;
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
   padding: 1rem 2rem;
+}
+.img {
+  display: flex;
+  flex-direction: column;
+}
+.p {
+  text-align: left;
 }
 .popup_box .popup_img {
   width: 25%;
-  position: absolute;
+  /* position: absolute; */
   right: 6rem;
   bottom: 2rem;
 }
@@ -680,7 +687,6 @@ footer .date {
   transition: all 0.3s;
 }
 .popup__content {
-  display: none;
   position: absolute;
   top: 50%;
   left: 50%;
