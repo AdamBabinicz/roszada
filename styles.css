@@ -243,7 +243,7 @@ span.arrow {
   font-size: 5rem;
   color: #fff;
   transition: all 0.3s ease-in-out;
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 span.arrow:hover {
   color: #ccc;
@@ -328,6 +328,10 @@ span.arrow:hover {
   display: inline-block;
   text-transform: uppercase;
   margin-right: -2px;
+}
+.blog {
+  max-width: 150px;
+  width: 100%;
 }
 .cta-btn {
   font-size: 1.1rem;
@@ -638,6 +642,7 @@ footer .date {
     inset -1rem -1rem 1rem rgba(255, 255, 255, 0.5);
   transition: opacity 0.5s;
   opacity: 1;
+  display: none;
 }
 .popup_box strong {
   font-size: 2rem;
