@@ -210,6 +210,14 @@ header {
   align-items: center;
   text-align: center;
 }
+.hero h3 {
+  font-size: 2rem;
+  color: #ccc;
+}
+.hero p {
+  font-size: 1.5rem;
+  color: #ccc;
+}
 .sub-headline {
   font-size: 8.5rem;
   font-family: var(--secondary-font);
@@ -314,6 +322,9 @@ span.arrow:hover {
   -webkit-animation: fadeDown 0.5s forwards;
   -webkit-animation-delay: 1.5s;
   animation-delay: 1.5s;
+}
+.headline-description {
+  margin-bottom: 4rem;
 }
 .headline-description h5 {
   color: #fff;

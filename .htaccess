@@ -12,6 +12,8 @@ RewriteEngine on
 RewriteRule otwarte-druzynowe-mistrzostwa-radomia-szkol-ponadpodstawowych galeria1.html
 RewriteRule zakonczenie-cyklu-20-turniejow-grand-prix-2020 galeria2.html
 RewriteRule II-turniej-szachowy-o-puchar-firmy-mk-klimat galeria3.html
+RewriteRule mistrzostwa-szkol-wyzszych galeria4.html
+RewriteRule mistrzostwa-radomia-szkol-podstawowych-I-III galeria5.html
  
 
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
