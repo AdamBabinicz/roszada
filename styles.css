@@ -639,7 +639,7 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  min-height: 485vh;
+  min-height: 380vh;
   height: auto;
   background: #fff;
   z-index: 10;
@@ -653,7 +653,7 @@ footer .date {
     inset -1rem -1rem 1rem rgba(255, 255, 255, 0.5);
   transition: opacity 0.5s;
   opacity: 1;
-  display: none;
+  display: flex;
 }
 .popup_box strong {
   font-size: 2rem;
