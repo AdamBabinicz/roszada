@@ -482,6 +482,21 @@ span.arrow:hover {
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 1.5rem;
 }
+.info {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+.info h3 {
+  font-size: 20px;
+  text-align: center;
+}
+
 .discover-chess .chess-description {
   padding-top: 3rem;
   margin-bottom: 0;
@@ -639,7 +654,7 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  min-height: 380vh;
+  min-height: 238vh;
   height: auto;
   background: #fff;
   z-index: 10;
@@ -954,6 +969,10 @@ p.kom {
   .popup__close:link,
   .popup__close:visited {
     top: 2rem;
+  }
+  .info {
+    margin-top: 20px;
+    width: 100%;
   }
 }
 /* Animations */

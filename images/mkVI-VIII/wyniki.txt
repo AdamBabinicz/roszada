@@ -1,0 +1,15 @@
+M-ce	Nr	Tytuł	Nazwisko Imię	R. FIDE	Ranking	Pkt.	MBch.	Bch.	Wins	Prog.
+1	1	III	Kaca, Aleksander	0	1600	5.0	9.00	15.00	5	15.0
+2	3	IV	Żurek, Szymon	0	1400	4.0	7.00	13.50	4	13.0
+3	8	V	Berus, Oskar	0	1200	3.0	10.00	17.00	3	9.0
+4	4	IV	Kaluga, Bartosz	0	1400	3.0	9.00	16.00	3	10.0
+5	14		Banaszczyk, Krzysztof	0	1000	3.0	8.00	13.00	3	9.0
+6	7	IV	Lipiec, Martyna	0	1250	3.0	8.00	12.50	3	9.0
+7	11		Laskowska, Emilia	0	1000	3.0	7.00	11.50	3	7.0
+8	6	IV	Mazur, Wiktor	0	1400	2.0	9.00	14.00	2	7.0
+9	12		Marciniak, Kinga	0	1000	2.0	8.00	14.00	2	8.0
+10	5	IV	Stryjek, Damian	0	1400	2.0	6.50	11.00	2	5.0
+11	9	V	Piotrowski, Arkadiusz	0	1200	2.0	5.50	8.50	2	6.0
+12	10		Kozyra, Szymon	0	1000	1.5	6.50	10.50	1	4.5
+13	2	IV	Budzik, Aleksy	0	1400	1.5	5.50	8.50	1	2.5
+14	13		Barczyk, Igor

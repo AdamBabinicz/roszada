@@ -15,7 +15,7 @@ RewriteRule II-turniej-szachowy-o-puchar-firmy-mk-klimat galeria3.html
 RewriteRule mistrzostwa-szkol-wyzszych galeria4.html
 RewriteRule mistrzostwa-radomia-szkol-podstawowych-I-III galeria5.html
 RewriteRule mistrzostwa-szkoly-podstawowej-nr-6-w-radomiu galeria6.html
-RewriteRule mistrzostwa-klas-6-8-w-radomiu galeria7.html
+RewriteRule mistrzostwa-klas-6-8-psp-6-w-radomiu galeria7.html
 
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
 RewriteRule .* ? [F,L]
