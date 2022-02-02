@@ -967,7 +967,8 @@ p.kom {
 }
 @media screen and (max-width: 767px) {
   .popup_box {
-    width: 98%;
+    width: 100%;
+    background: yellow;
   }
   .popup__close:link,
   .popup__close:visited {
