@@ -654,8 +654,7 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  min-height: 415vh;
-  height: auto;
+  min-height: 225vh;
   background: #fff;
   z-index: 10;
   top: 22%;
