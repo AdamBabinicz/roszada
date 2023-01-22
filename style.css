@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  /* height: 100vh; */
+  height: 100vh;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),
     url("images/chess-1215079_1920.jpg") center/cover no-repeat;
 }
@@ -48,7 +48,12 @@ body {
   text-transform: uppercase;
 }
 .item__slide {
-  /* padding: 40px 0px 60px 0px; */
+  padding: 40px 0px 60px 0px;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 0.2)
+  );
 }
 .item__img {
   position: relative;
