@@ -16,6 +16,7 @@ RewriteRule mistrzostwa-szkol-wyzszych galeria4.html
 RewriteRule mistrzostwa-radomia-szkol-podstawowych-I-III galeria5.html
 RewriteRule mistrzostwa-szkoly-podstawowej-nr-6-w-radomiu galeria6.html
 RewriteRule mistrzostwa-klas-6-8-psp-6-w-radomiu galeria7.html
+RewriteRule final-2-turnieju-bitwy-warszawskiej galeria8.html
 
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
 RewriteRule .* ? [F,L]

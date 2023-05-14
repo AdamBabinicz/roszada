@@ -54,11 +54,35 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body class="bg">
-    <!-- <div class="popup_box">
+    <div class="popup_box">
       <div class="text">
-        <h2>Promocja projektu „Dolina Krzemowa Nad Mleczną”</h2>
+        <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-        <div class="popup_text">
+        <p>
+          <strong>
+            W dniu 23.08. br. w RKSG „Radomig” odbył się finał II Turnieju
+            Szachowego „103 Rocznicy Bitwy Warszawskiej 1920 r.” im Generała
+            Tadeusza Jordan-Rozwadowskiego.</strong
+          >
+        </p>
+        <br />
+        <p>
+          Zwyciężył Damian Stryjek z Szydłowca. Kolejne miejsca: 2. Szymon
+          Domagała z Makowca. 3. Jakub Wojcieszak i 4. Szymon Kolasiński, obaj z
+          Radomia.
+        </p>
+        <p>
+          Zwycięzca otrzymał puchar. Natomiast wszyscy zawodnicy - medale i
+          pamiątkowe dyplomy.
+        </p>
+        <p>
+          Organizatorem był UKS „Roszada” i Akademia Szachowa Marka
+          Niedźwieckiego. Turniej wchodzi w skład cyklu turniejów kampanii
+          społecznej <b>„Wprowadzić szachy do programu szkolnego”</b>. Sędziował
+          Marek Niedźwiecki.
+        </p>
+        <br />
+        <!-- <div class="popup_text">
           <p>
             <strong
               >XIX Konkurs Szachowy „Odwaga-Miłość-Pokój” w Radomiu:</strong
@@ -230,7 +254,7 @@
           <p>Miesięcznik „Głos z Serca Polski”</p>
           <br />
           <br />
-        </div>
+        </div> -->
 
         <div class="img">
           <img
@@ -238,12 +262,12 @@
             src="images/227242_212878705406500_1478204_n.jpg"
             alt="logo"
           />
-          <p>Radom, 01.04.2022r.</p>
+          <p>Radom, 30.08.2023 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
         </div>
         <a href="#" class="popup__close clo">&times;</a>
       </div>
-    </div> -->
+    </div>
 
     <!-- header start -->
     <header>
@@ -304,6 +328,14 @@
         <p>Tę stronę odwiedzono</p>
         <h3 id="count">&nbsp;</h3>
         <p>razy</p>
+        <a
+          href="https://klubysportowe.pl/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="link"
+        >
+          <img src="images/klubysportowe-logo.svg" alt="..." />
+        </a>
       </div>
     </section>
     <!-- Hero ends -->
@@ -412,6 +444,11 @@
               ></span>
             </a>
             <a href="mistrzostwa-klas-6-8-psp-6-w-radomiu">
+              <span class="arrow"
+                ><i class="fas fa-arrow-alt-circle-down"></i
+              ></span>
+            </a>
+            <a href="final-2-turnieju-bitwy-warszawskiej galeria8">
               <span class="arrow"
                 ><i class="fas fa-arrow-alt-circle-down"></i
               ></span>
@@ -526,7 +563,7 @@
               Grzybowska 16 (17:30 - 18:30), oraz w środy w klubie "Radomig" w
               Radomiu ul. Mazowieckiego 13 (17:30 - 18:30).
             </p>
-            <a href="#przekaz" class="btn body-btn">Przekaż 1% podatku</a>
+            <a href="#przekaz" class="btn body-btn">Przekaż 1,5% podatku</a>
           </div>
           <div class="image-group">
             <img
@@ -841,19 +878,40 @@
       });
     </script> -->
     <script src="js/main.js"></script>
+
     <script>
+      const count = document.getElementById("count");
+
+      incrementVisitsCount();
+
+      function incrementVisitsCount() {
+        let visits;
+
+        if (!localStorage.getItem("visits")) localStorage.setItem("visits", 1);
+        else {
+          visits = +localStorage.getItem("visits");
+          const incrementedCount = visits + 1;
+
+          localStorage.setItem("visits", incrementedCount);
+        }
+
+        count.innerText = localStorage.getItem("visits");
+      }
+    </script>
+
+    <!-- <script>
       const countEl = document.getElementById("count");
 
       updateVisitCount();
 
       function updateVisitCount() {
-        fetch("https://api.countapi.xyz/hit/roszada.radom.pl/visits")
+        fetch("https://api.countapi.xyz/hit/89.161.128.241/visits")
           .then((res) => res.json())
           .then((res) => {
             countEl.innerHTML = res.value;
           });
       }
-    </script>
+    </script> -->
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",

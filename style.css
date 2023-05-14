@@ -23,6 +23,7 @@ body {
 .back-to-top {
   display: none;
 }
+
 @media screen and (max-width: 640px) {
   .wrapper {
     padding: 1rem;
@@ -36,9 +37,10 @@ body {
   }
 }
 .swiper-container {
-  width: 900px;
+  /* width: 900px; */
   height: 650px;
   /* height: 100%; */
+  width: 100%;
 }
 .wrapper__title {
   color: #333;
@@ -49,6 +51,9 @@ body {
 }
 .item__slide {
   padding: 40px 0px 60px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: linear-gradient(
     to bottom,
     rgba(0, 0, 0, 0.1),
@@ -65,6 +70,7 @@ body {
   max-width: 100%;
   height: 100%;
   object-fit: contain;
+  display: block;
 }
 .swiper__pagination-bullet {
   width: 25px;
