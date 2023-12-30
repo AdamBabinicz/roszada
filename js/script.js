@@ -16,3 +16,8 @@ var mySwiper = new Swiper(".swiper-container", {
     prevEl: ".swiper-button-prev",
   },
 });
+
+var currentDate = new Date();
+var currentYear = currentDate.getFullYear();
+var yearRangeElement = document.getElementById("yearRange");
+yearRangeElement.innerHTML = currentYear - 1 + " - " + currentYear;
