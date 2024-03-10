@@ -51,6 +51,10 @@ p {
   padding: 0 2.4rem;
   /* background: rgba(255, 0, 0, 0.075); */
 }
+.count {
+  font-size: 16px;
+  color: #ccc;
+}
 .logo {
   position: absolute;
 }

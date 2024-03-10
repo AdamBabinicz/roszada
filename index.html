@@ -152,9 +152,9 @@
             <a href="tel:+48502147317" class="btn cta-btn">Zadzwoń</a>
           </div>
         </div>
-        <p>Tę stronę odwiedzono</p>
-        <h3 id="count">&nbsp;</h3>
-        <p>razy</p>
+        <div class="count">
+          Tę stronę odwiedzono: <span id="count"></span> razy
+        </div>
         <a
           href="https://klubysportowe.pl/"
           target="_blank"
@@ -695,62 +695,11 @@
       </div>
     </div>
     <!-- end of popup -->
-    <!-- <script src="https://cdn.jsdelivr.net/scrollreveal.js/3.1.4/scrollreveal.min.js"></script> -->
+
     <script src="https://unpkg.com/scrollreveal"></script>
-    <!-- <script>
-      window.sr = ScrollReveal();
-      sr.reveal('.logo, .container, .nav-list', {
-        reset: true,
-        delay: 300
-      });
-    </script> -->
+
     <script src="js/main.js"></script>
 
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Visit Counter</title>
-      </head>
-      <body>
-        <div>Total visits: <span id="count">0</span></div>
-
-        <script>
-          const count = document.getElementById("count");
-
-          incrementVisitsCount();
-
-          function incrementVisitsCount() {
-            let visits = localStorage.getItem("visits");
-
-            if (!visits) {
-              visits = 1;
-            } else {
-              visits = parseInt(visits) + 1;
-            }
-
-            localStorage.setItem("visits", visits);
-
-            count.innerText = visits;
-          }
-        </script>
-      </body>
-    </html>
-
-    <!-- <script>
-      const countEl = document.getElementById("count");
-
-      updateVisitCount();
-
-      function updateVisitCount() {
-        fetch("https://api.countapi.xyz/hit/89.161.128.241/visits")
-          .then((res) => res.json())
-          .then((res) => {
-            countEl.innerHTML = res.value;
-          });
-      }
-    </script> -->
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",
@@ -787,6 +736,25 @@
       gtag("js", new Date());
 
       gtag("config", "UA-155204822-1");
+    </script>
+    <script>
+      const count = document.getElementById("count");
+
+      incrementVisitsCount();
+
+      function incrementVisitsCount() {
+        let visits = localStorage.getItem("visits");
+
+        if (!visits) {
+          visits = 1;
+        } else {
+          visits = parseInt(visits) + 1;
+        }
+
+        localStorage.setItem("visits", visits);
+
+        count.innerText = visits;
+      }
     </script>
   </body>
 </html>
