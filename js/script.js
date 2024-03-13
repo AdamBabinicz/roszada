@@ -19,5 +19,6 @@ var mySwiper = new Swiper(".swiper-container", {
 
 var currentDate = new Date();
 var currentYear = currentDate.getFullYear();
+var startYear = 2019;
 var yearRangeElement = document.getElementById("yearRange");
-yearRangeElement.innerHTML = currentYear - 1 + " - " + currentYear;
+yearRangeElement.innerHTML = startYear + " - " + currentYear;
