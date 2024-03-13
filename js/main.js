@@ -49,3 +49,9 @@ sr.reveal(".animate-bottom", {
   distance: "25rem",
   delay: 600,
 });
+
+var currentDate = new Date();
+var currentYear = currentDate.getFullYear();
+var startYear = 2019;
+var yearRangeElement = document.getElementById("yearRange");
+yearRangeElement.innerHTML = startYear + " - " + currentYear;
