@@ -55,6 +55,7 @@ p {
   font-size: 16px;
   color: #ccc;
 }
+
 .logo {
   position: absolute;
 }
@@ -665,8 +666,8 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  /* min-height: 225vh; */
-  height: fit-content;
+  max-height: 100vh;
+  overflow-y: auto;
   background: #fff;
   z-index: 10;
   top: 22%;
