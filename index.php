@@ -37,60 +37,31 @@
         <br />
         <p>
           <strong>
-            Wielkanocny Turniej Szachowy w parafii pw. Matki Bożej Królowej Świata w Radomiu 2 kwietnia 2024r.</strong
+            Memoriał Szachowy im. św. Andrzeja Boboli.</strong
           >
         </p>
         <br />
-        <p><b>1. Celem turnieju jest:</b></p>
-        <p>
-          - popularyzowanie szachów wśród parafian.
-        </p>
-        <p>
-          - integracja i sportowa rywalizacja.
-        </p>
-        <p><b>2. Organizatorzy:</b></p>
-        <p>- organizatorem jest Parafia pw. Matki Bożej Królowej Świata i Małgorzata Półbratek, radna Rady Miejskiej w Radomiu.</p>
-        <p><b>3. Miejsce:</b></p>
-        <p>- Katolickie Liceum Ogólnokształcące im. św. Filipa Neri w Radomiu, ul. Grzybowska 22.</p>
-        <p><b>4. System rozgrywek:</b></p>
-        <p>- turniej zostanie rozegrany systemem szwajcarskim, 7 rund z tempem P'10 + 5''.</p>
-        <p><b>5. Zgłoszenia:</b></p>
-          <p>- w turnieju mogą brać udział wszyscy szachiści.</p>
-          <p>- należy się zgłosić do 28. marca 2024 r. w kancelarii parafialnej lub zakrystii podając: imię i nazwisko, dokładną datę urodzenia, posiadaną kategorię szachową i numer telefonu kontaktowego.</p>
-          <p>- liczba miejsc w turnieju jest ograniczona – decyduje kolejność zgłoszeń.</p>
-          <p><b>6. Program zawodów:</b></p>
-          <p>10. 00 – 10. 10 – weryfikacja zgłoszeń.</p>
-          <p>10. 10 – 10. 20 – odprawa techniczna.</p>
-          <p>10. 20 – 10. 30 – uroczyste otwarcie turnieju.</p>
-          <p>10. 30 – 14. 00 - rozegranie 7 rund.</p>
-          <p>14. 30 – 15. 00 - uroczystość zakończenia turnieju wraz z wręczeniem nagród.</p>
-          <p><b>7. Nagrody:</b></p>
-          <p>- I miejsce: puchar, medal, nagroda rzeczowa w wys. 200 zł.</p>
-          <p>- II miejsce: puchar, medal, nagroda rzeczowa w wys. 150 zł</p>
-          <p>- III miejsce: puchar, medal, nagroda rzeczowa w wys. 100 zł.</p>
-          <p>- wszyscy uczestnicy otrzymują dyplomy pamiątkowe.</p>
-          <p><b>Pozostałe przepisy:</b></p>
-          <p>- w turnieju obowiązują przepisy gry FIDE, według aktualnego „Kodeksu Szachowego” Polskiego Związku Szachowego.</p>
-          <p>- o kolejności zajętych miejsc w turnieju decyduje ilość zdobytych punktów, zaś w przypadku równej ilości punktów, o wyższym miejscu, decyduje punktacja dodatkowa według następującej kolejności: Buchholz średni, Buchholz, liczba zwycięstw, progress.</p>
-          <p>Niniejszy turniej jest przedsięwzięciem dbającym o podtrzymanie wizerunku szachów jako wzorca uczciwej dyscypliny sportowej. Na sali gry obowiązują zasady dobrego zachowania, umożliwiające zawodnikom bezproblemowe rozegranie partii.</p>
-          <p>Zawodnicy muszą mieć trwale wyłączone urządzenia elektroniczne.</p>
-          <p>Szachiści wyrażają zgodę na udostępnienie dokumentacji fotograficznej do celów promocyjnych. Fotografowanie jest dozwolone przez pierwszych pięć minut każdej rundy.</p>
-          <p>Organizatorzy zastrzegają sobie prawo zmian w regulaminie. W przypadkach spraw nieuregulowanych regulaminem lub związanych z jego interpretacją, ostateczną decyzję podejmuje Sędzia Główny.</p>
-          <p>W sprawach spornych zostanie powołana komisja w składzie: Sędzia Główny, przedstawiciel organizatora, przedstawiciel uczestników (niebędący stroną sporu). Uczestnicy rozgrywek ubezpieczają się we własnym zakresie. Organizatorzy zapewniają serwis kawowy.</p>
-          <p>Zgłoszenie się do turnieju jest równoznaczne z zaakceptowaniem postanowień niniejszego Regulaminu.</p>
-        <br />
-        <p><b>Za organizatorów</b></p>
-        <p>/-/ Małgorzata Półbratek</p>
+        <img class="popup_img" src="images/plakat szachy.jpg" alt="...">
         <br>
-        <!-- <div class="img">
+        <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
+        <p>8 grudnia 1608 wstąpił do Sodalicji Mariańskiej. W 1611 r. wstąpił do zakonu jezuitów.</p>
+        <p>Nawracał członków cerkwi prawosławnej na katolicyzm.</p>
+        <p>Andrzeja schwytał oddział kozacki i usiłował groźbą wymusić wyparcie się wiary. Andrzej Bobola 16 maja 1657 roku w Janowie Poleskim (obecnie Białoruś) zginął męczeńską śmiercią torturowany przez kozaków.</p>
+        <p>Został pochowany w podziemiach kolegium w Pińsku.</p>
+        <p>16 kwietnia 1702 r. ukazał się o. Marcinowi Godebskiemu, rektorowi kolegium jezuitów w Pińsku, z poleceniem aby odszukano jego ciało, a on ocali Piński od epidemii i wojsk szwedzkich, które pustoszyły wówczas okolice Wilna i Pińska. I tak też się stało. Trumnę z ciałem Boboli odnaleziono 19 kwietnia 1702 roku, a po jej otwarciu okazało się, że zwłoki nie mają oznak rozkładu. Zaczął się szerzyć kult Andrzeja Boboli. W 1819 r. ukazał się dominikaninowi o. Alojzemu Korzeniowskiemu w Wilnie, przepowiadając w wizji zmartwychwstanie Polski. Oznajmił jemu: „ Gdy skończy się wojna, którą widzisz, wtedy królestwo Polski zostanie przywrócone przez miłosierdzie Boże, a ja zostanę w nim uznany jako główny patron”.</p>
+        <p>Po przegranej Bitwie Warszawskiej, bolszewicy podjęli próbę zabrania ciała Boboli, gdyż panowała opinia, że Polacy zwyciężyli dzięki jego wstawiennictwu.</p>
+        <p>13 maja 1989 złożono je w nowo wybudowanym sanktuarium św. Andrzeja Boboli w Warszawie przy ul. Rakowieckiej 61.</p>
+        <p>W 1992 powstało Stowarzyszenie Krzewienia Kultu św. Andrzeja Boboli.</p>
+        <p>Od 16 maja 2002 św. Andrzej Bobola jest patronem Polski, ale jeszcze nie jako główny.</p>
+        <div class="img">
           <img
             class="popup_img"
             src="images/227242_212878705406500_1478204_n.jpg"
             alt="logo"
           />
-          <p>Radom, 24.02.2024 r.</p>
+          <p>Radom, 15.04.2024 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
-        </div> -->
+        </div>
         <a href="#" class="popup__close clo">&times;</a>
       </div>
     </div>
