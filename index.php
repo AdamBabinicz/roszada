@@ -14,7 +14,7 @@
     <meta name="twitter:image" content="http://roszada.radom.pl/images/composing-3827454_1920.jpg" />
     <meta name="twitter:image:alt" content="UKS ROSZADA RADOM" />
     <meta property="og:type" content="product" />
-    <meta property="og:title" content="Nauka gry w szachy w Akademii Marka Niedźwiedzkiego." />
+    <meta property="og:title" content="Nauka gry w szachy w Akademii Marka Niedźwieckiego." />
     <meta property="og:description" content="Zapraszamy wszystkich, którzy pragną nauczyć się gry w szachy. Naprawdę warto zatrudnić szare komórki, aby zachować dobrą sprawność umysłową." />
     <meta property="og:url" content="http://roszada.radom.pl" />
     <meta property="og:image" content="http://roszada.radom.pl/images/bobola.jfif" />
@@ -37,10 +37,12 @@
         <br />
         <p>
           <strong>
-            Memoriał Szachowy im. św. Andrzeja Boboli.</strong
+            Memoriał Szachowy im. św. Andrzeja Boboli 16 maja 2024' godz. 18:00</strong
           >
         </p>
         <br />
+        <p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a></p>
+        <br>
         <img class="" src="images/plakat szachy.jpg" alt="...">
         <br>
         <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
@@ -53,6 +55,7 @@
         <p>13 maja 1989 złożono je w nowo wybudowanym sanktuarium św. Andrzeja Boboli w Warszawie przy ul. Rakowieckiej 61.</p>
         <p>W 1992 powstało Stowarzyszenie Krzewienia Kultu św. Andrzeja Boboli.</p>
         <p>Od 16 maja 2002 św. Andrzej Bobola jest patronem Polski, ale jeszcze nie jako główny.</p>
+        <br>
         <div class="img">
           <img
             class="popup_img"
