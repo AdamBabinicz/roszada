@@ -41,7 +41,7 @@
           >
         </p>
         <br />
-        <img class="popup_img" src="images/plakat szachy.jpg" alt="...">
+        <img class="" src="images/plakat szachy.jpg" alt="...">
         <br>
         <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
         <p>8 grudnia 1608 wstąpił do Sodalicji Mariańskiej. W 1611 r. wstąpił do zakonu jezuitów.</p>
@@ -64,8 +64,7 @@
         </div>
         <a href="#" class="popup__close clo">&times;</a>
       </div>
-    </div>
-
+      </div>
     <!-- header start -->
     <header>
       <div class="container">

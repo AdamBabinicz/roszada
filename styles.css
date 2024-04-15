@@ -666,8 +666,8 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  max-height: fit-content;
-  overflow-y: auto;
+  /* height: auto; */
+  overflow-y: visible;
   background: #fff;
   z-index: 10;
   top: 22%;
@@ -823,7 +823,7 @@ p.kom {
 /* Media queries */
 @media screen and (min-width: 900px) {
   .popup_box {
-    max-height: 100vh;
+    /* max-height: 100vh; */
     width: 50%;
     /* top: 233%; */
   }
