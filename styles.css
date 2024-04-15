@@ -666,7 +666,7 @@ footer .date {
 .popup_box {
   position: absolute;
   width: 85%;
-  max-height: 100vh;
+  max-height: fit-content;
   overflow-y: auto;
   background: #fff;
   z-index: 10;

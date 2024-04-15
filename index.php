@@ -17,7 +17,7 @@
     <meta property="og:title" content="Nauka gry w szachy w Akademii Marka Niedźwiedzkiego." />
     <meta property="og:description" content="Zapraszamy wszystkich, którzy pragną nauczyć się gry w szachy. Naprawdę warto zatrudnić szare komórki, aby zachować dobrą sprawność umysłową." />
     <meta property="og:url" content="http://roszada.radom.pl" />
-    <meta property="og:image" content="http://roszada.radom.pl/images/wielkanoc.jpg" />
+    <meta property="og:image" content="http://roszada.radom.pl/images/bobola.jfif" />
     <meta property="fb:app_id" content="" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="1200" />
