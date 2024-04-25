@@ -66,8 +66,8 @@ męczeńskiej śmierci.
         <p> Osoby prywatne, Akademia Szachowa Marka Niedźwieckiego, Uczniowski Klub
 Sportowy „Roszada”, Kapituła Kultury Szachowej. </p>
 <p><b>3. Miejsce i termin:</b></p>
-<> turniej odbędzie się w dniu 16.05.br. o godzinie 18:00 w klubie
-https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego.
+<p>turniej odbędzie się w dniu 16.05.br. o godzinie 18:00 w klubie
+https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego.</p>
 <p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a></p>
 <p><b>4. Zgłoszenia:</b></p>
 <p>Udział mogą wziąć członkowie klubu https://lichess.org/team/akademia-szachowa-markaniedzwieckiego</p>
