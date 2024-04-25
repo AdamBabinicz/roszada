@@ -17,7 +17,7 @@
     <meta property="og:title" content="Nauka gry w szachy w Akademii Marka Niedźwieckiego." />
     <meta property="og:description" content="Zapraszamy wszystkich, którzy pragną nauczyć się gry w szachy. Naprawdę warto zatrudnić szare komórki, aby zachować dobrą sprawność umysłową." />
     <meta property="og:url" content="http://roszada.radom.pl" />
-    <meta property="og:image" content="http://roszada.radom.pl/images/bobola.jfif" />
+    <meta property="og:image" content="http://roszada.radom.pl/images/bataliony.jpg" />
     <meta property="fb:app_id" content="" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="1200" />
@@ -35,8 +35,7 @@
       <div class="text">
         <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-        <p>
-          <strong>
+            <strong>
             Memoriał Szachowy im. św. Andrzeja Boboli 16 maja 2024' godz. 18:00</strong
           >
         </p>
@@ -45,6 +44,10 @@
         <br>
         <img class="" src="images/plakat szachy.jpg" alt="...">
         <br>
+        <p><b>REGULAMIN
+Memoriału Szachowego im. Św. Andrzeja Boboli w 367 rocznicę Jego
+męczeńskiej śmierci.
+</b></p>
         <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
         <p>8 grudnia 1608 wstąpił do Sodalicji Mariańskiej. W 1611 r. wstąpił do zakonu jezuitów.</p>
         <p>Nawracał członków cerkwi prawosławnej na katolicyzm.</p>
@@ -56,13 +59,39 @@
         <p>W 1992 powstało Stowarzyszenie Krzewienia Kultu św. Andrzeja Boboli.</p>
         <p>Od 16 maja 2002 św. Andrzej Bobola jest patronem Polski, ale jeszcze nie jako główny.</p>
         <br>
+        <p><b>1. Cel: Celem Memoriału jest:</b></p>
+        <p>- uczczenie 367 rocznicy męczeńskiej śmierci św. Andrzeja Boboli</p>
+        <p>- popularyzowanie szachów, </p>
+        <p>- integracja i sportowa rywalizacja pomiędzy przedstawicielami wszelkich pokoleń</p>
+        <p>- propagowanie społecznej kampanii „Wprowadzić szachy do programu szkolnego”</p>
+        <p><b>2. Organizatorzy:</b></p>
+        <p> Osoby prywatne, Akademia Szachowa Marka Niedźwieckiego, Uczniowski Klub
+Sportowy „Roszada”, Kapituła Kultury Szachowej. </p>
+<p><b>3. Miejsce i termin:</b></p>
+<p> turniej odbędzie się w dniu 16.05.br. o godzinie 18:00 w klubie
+https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego
+link do turnieju: https://lichess.org/swiss/jon4AetH </p>
+<p><b>4. Zgłoszenia:</b></p>
+<p>Udział mogą wziąć członkowie klubu https://lichess.org/team/akademia-szachowa-markaniedzwieckiego</p>
+<p>Zgłoszenie członkostwa w Klubie należy dokonać w terminie minimum 30 minut przed rozpoczęciem
+eliminacji. Po upływie tego terminu zgłoszenie może nie być przyjęte. W zgłoszeniu należy podać nazwisko
+i imię (np.: Kowalski Jan) lub inny nick.</p>
+<p><b>5. Opłata startowa:</b></p>
+<p>Udział w turnieju i członkostwo w Klubie jest bezpłatne.
+</p>
+<p><b>6. System rozgrywek:</b></p>
+<p>Zawodnicy rozegrają 13 rund tempem P'3+2”/zawodnika.</p>
+<p><b>7. Nagrody:</b></p>
+<p>I miejsce 1000 zł. Łączna pula nagród wynosi 2050 zł. Nagrody wyślemy zwycięzcom na ich
+konta bankowe.
+</p>
         <div class="img">
           <img
             class="popup_img"
             src="images/227242_212878705406500_1478204_n.jpg"
             alt="logo"
           />
-          <p>Radom, 15.04.2024 r.</p>
+          <p>Radom, 23.04.2024 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
         </div>
         <a href="#" class="popup__close clo">&times;</a>
