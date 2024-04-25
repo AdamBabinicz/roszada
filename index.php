@@ -17,7 +17,7 @@
     <meta property="og:title" content="Nauka gry w szachy w Akademii Marka Niedźwieckiego." />
     <meta property="og:description" content="Zapraszamy wszystkich, którzy pragną nauczyć się gry w szachy. Naprawdę warto zatrudnić szare komórki, aby zachować dobrą sprawność umysłową." />
     <meta property="og:url" content="http://roszada.radom.pl" />
-    <meta property="og:image" content="http://roszada.radom.pl/images/bataliony.jpg" />
+    <meta property="og:image" content="http://roszada.radom.pl/images/bobola.jfif" />
     <meta property="fb:app_id" content="" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="1200" />
@@ -35,18 +35,15 @@
       <div class="text">
         <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-            <strong>
-            Memoriał Szachowy im. św. Andrzeja Boboli 16 maja 2024' godz. 18:00</strong
-          >
-        </p>
+            <p><b><h2>REGULAMIN
+Memoriału Szachowego im. Św. Andrzeja Boboli w 367 rocznicę Jego
+męczeńskiej śmierci.
+</h2></b></p><br/>
+        
         <br />
         <img class="" src="images/plakat szachy.jpg" alt="...">
         <br>
-        <p><b>REGULAMIN
-Memoriału Szachowego im. Św. Andrzeja Boboli w 367 rocznicę Jego
-męczeńskiej śmierci.
-</b></p>
-        <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
+                <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
         <p>8 grudnia 1608 wstąpił do Sodalicji Mariańskiej. W 1611 r. wstąpił do zakonu jezuitów.</p>
         <p>Nawracał członków cerkwi prawosławnej na katolicyzm.</p>
         <p>Andrzeja schwytał oddział kozacki i usiłował groźbą wymusić wyparcie się wiary. Andrzej Bobola 16 maja 1657 roku w Janowie Poleskim (obecnie Białoruś) zginął męczeńską śmiercią torturowany przez kozaków.</p>
@@ -82,8 +79,8 @@ i imię (np.: Kowalski Jan) lub inny nick.</p>
 <p><b>7. Nagrody:</b></p>
 <p>I miejsce 1000 zł. Łączna pula nagród wynosi 2050 zł. Nagrody wyślemy zwycięzcom na ich
 konta bankowe.
-<br>
 </p>
+<br/> 
         <div class="img">
           <img
             class="popup_img"
