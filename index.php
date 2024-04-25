@@ -40,8 +40,6 @@
           >
         </p>
         <br />
-        <p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a></p>
-        <br>
         <img class="" src="images/plakat szachy.jpg" alt="...">
         <br>
         <p><b>REGULAMIN
@@ -68,9 +66,9 @@ męczeńskiej śmierci.
         <p> Osoby prywatne, Akademia Szachowa Marka Niedźwieckiego, Uczniowski Klub
 Sportowy „Roszada”, Kapituła Kultury Szachowej. </p>
 <p><b>3. Miejsce i termin:</b></p>
-<p> turniej odbędzie się w dniu 16.05.br. o godzinie 18:00 w klubie
-https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego
-link do turnieju: https://lichess.org/swiss/jon4AetH </p>
+<> turniej odbędzie się w dniu 16.05.br. o godzinie 18:00 w klubie
+https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego.
+<p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a></p>
 <p><b>4. Zgłoszenia:</b></p>
 <p>Udział mogą wziąć członkowie klubu https://lichess.org/team/akademia-szachowa-markaniedzwieckiego</p>
 <p>Zgłoszenie członkostwa w Klubie należy dokonać w terminie minimum 30 minut przed rozpoczęciem
@@ -84,6 +82,7 @@ i imię (np.: Kowalski Jan) lub inny nick.</p>
 <p><b>7. Nagrody:</b></p>
 <p>I miejsce 1000 zł. Łączna pula nagród wynosi 2050 zł. Nagrody wyślemy zwycięzcom na ich
 konta bankowe.
+<br>
 </p>
         <div class="img">
           <img
