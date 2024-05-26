@@ -35,51 +35,25 @@
       <div class="text">
         <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-            <p><b><h2>REGULAMIN
-Memoriału Szachowego im. Św. Andrzeja Boboli w 367 rocznicę Jego
-męczeńskiej śmierci.
+            <p><b><h2>Wyniki Memoriału im. Andrzeja Boboli.
 </h2></b></p><br/>
         
         <br />
         <img class="" src="images/plakat szachy.jpg" alt="...">
         <br>
-                <p>Andrzej Bobola urodził się w 1591 w Strachocinie, pochodził ze szlacheckiego rodu, osiadłego w Małopolsce . W młodości w 1606 roku został posłany do kolegium jezuitów w Braniewie, w którym przebywał do 1611 r.</p>
-        <p>8 grudnia 1608 wstąpił do Sodalicji Mariańskiej. W 1611 r. wstąpił do zakonu jezuitów.</p>
-        <p>Nawracał członków cerkwi prawosławnej na katolicyzm.</p>
-        <p>Andrzeja schwytał oddział kozacki i usiłował groźbą wymusić wyparcie się wiary. Andrzej Bobola 16 maja 1657 roku w Janowie Poleskim (obecnie Białoruś) zginął męczeńską śmiercią torturowany przez kozaków.</p>
-        <p>Został pochowany w podziemiach kolegium w Pińsku.</p>
-        <p>16 kwietnia 1702 r. ukazał się o. Marcinowi Godebskiemu, rektorowi kolegium jezuitów w Pińsku, z poleceniem aby odszukano jego ciało, a on ocali Piński od epidemii i wojsk szwedzkich, które pustoszyły wówczas okolice Wilna i Pińska. I tak też się stało. Trumnę z ciałem Boboli odnaleziono 19 kwietnia 1702 roku, a po jej otwarciu okazało się, że zwłoki nie mają oznak rozkładu. Zaczął się szerzyć kult Andrzeja Boboli. W 1819 r. ukazał się dominikaninowi o. Alojzemu Korzeniowskiemu w Wilnie, przepowiadając w wizji zmartwychwstanie Polski. Oznajmił jemu: „ Gdy skończy się wojna, którą widzisz, wtedy królestwo Polski zostanie przywrócone przez miłosierdzie Boże, a ja zostanę w nim uznany jako główny patron”.</p>
-        <p>Po przegranej Bitwie Warszawskiej, bolszewicy podjęli próbę zabrania ciała Boboli, gdyż panowała opinia, że Polacy zwyciężyli dzięki jego wstawiennictwu.</p>
-        <p>13 maja 1989 złożono je w nowo wybudowanym sanktuarium św. Andrzeja Boboli w Warszawie przy ul. Rakowieckiej 61.</p>
-        <p>W 1992 powstało Stowarzyszenie Krzewienia Kultu św. Andrzeja Boboli.</p>
-        <p>Od 16 maja 2002 św. Andrzej Bobola jest patronem Polski, ale jeszcze nie jako główny.</p>
-        <br>
-        <p><b>1. Cel: Celem Memoriału jest:</b></p>
-        <p>- uczczenie 367 rocznicy męczeńskiej śmierci św. Andrzeja Boboli</p>
-        <p>- popularyzowanie szachów, </p>
-        <p>- integracja i sportowa rywalizacja pomiędzy przedstawicielami wszelkich pokoleń</p>
-        <p>- propagowanie społecznej kampanii „Wprowadzić szachy do programu szkolnego”</p>
-        <p><b>2. Organizatorzy:</b></p>
-        <p> Osoby prywatne, Akademia Szachowa Marka Niedźwieckiego, Uczniowski Klub
-Sportowy „Roszada”, Kapituła Kultury Szachowej. </p>
-<p><b>3. Miejsce i termin:</b></p>
-<p>turniej odbędzie się w dniu 16.05.br. o godzinie 18:00 w klubie
+                <p>W dniu 16 maja br. w klubie
 https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego.</p>
-<p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a></p>
-<p><b>4. Zgłoszenia:</b></p>
-<p>Udział mogą wziąć członkowie klubu https://lichess.org/team/akademia-szachowa-markaniedzwieckiego</p>
-<p>Zgłoszenie członkostwa w Klubie należy dokonać w terminie minimum 30 minut przed rozpoczęciem
-eliminacji. Po upływie tego terminu zgłoszenie może nie być przyjęte. W zgłoszeniu należy podać nazwisko
-i imię (np.: Kowalski Jan) lub inny nick.</p>
-<p><b>5. Opłata startowa:</b></p>
-<p>Udział w turnieju i członkostwo w Klubie jest bezpłatne.
-</p>
-<p><b>6. System rozgrywek:</b></p>
-<p>Zawodnicy rozegrają 13 rund tempem P'3+2”/zawodnika.</p>
-<p><b>7. Nagrody:</b></p>
-<p>I miejsce 1000 zł. Łączna pula nagród wynosi 2050 zł. Nagrody wyślemy zwycięzcom na ich
-konta bankowe.
-</p>
+<p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH został rozegrany Memoriał Szachowy św. Andrzeja Boboli. Głównym celem Memoriału było przypomnienie postaci św. Andrzeja Boboli i Jego zasług dla Polski. Św. Andrzej Bobola jest patronem Polski; zostanie głównym patronem Polski. Zawodnicy grali 13 rund tempem 3'+3”/posunięcie. Do turnieju zapisało się 39 zawodników.</p>
+        <p>Oto wyniki Memoriału:</p>
+        <p>1. Michał Kopczyński , CM ranking FIDE 2225</p>
+        <p>2. Piotr Polkowski, km, ranking FIDE 2116</p>
+        <p>3. Rafał Lewandowski, k+, ranking FIDE 2106</p>
+        <p>4. Dawid Dobosiewicz I++ , ranking FIDE 2028</p>
+        <p>5. Artur Oleszczuk, II+ ranking FIDE 1721</p>
+        <br>
+        <p><b>Łączny fundusz nagród wynosił 2050 zł. Fundatorami nagród finansowych były osoby prywatne. Następny Memoriał odbędzie się w 2025 roku w diecezji kieleckiej. </b></p>
+        
+
 <br/> 
         <div class="img">
           <img
@@ -87,7 +61,7 @@ konta bankowe.
             src="images/227242_212878705406500_1478204_n.jpg"
             alt="logo"
           />
-          <p>Radom, 23.04.2024 r.</p>
+          <p>Radom, 26.05.2024 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
         </div>
         <a href="#" class="popup__close clo">&times;</a>
