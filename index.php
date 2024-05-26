@@ -39,11 +39,10 @@
 </h2></b></p><br/>
         
         <br />
-        <img class="" src="images/plakat szachy.jpg" alt="...">
+        <img class="" src="images/bobola.jfif" alt="...">
         <br>
-                <p>W dniu 16 maja br. w klubie
-https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego.</p>
-<p>link do turnieju: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH został rozegrany Memoriał Szachowy św. Andrzeja Boboli. Głównym celem Memoriału było przypomnienie postaci św. Andrzeja Boboli i Jego zasług dla Polski. Św. Andrzej Bobola jest patronem Polski; zostanie głównym patronem Polski. Zawodnicy grali 13 rund tempem 3'+3”/posunięcie. Do turnieju zapisało się 39 zawodników.</p>
+                
+<p>W dniu 16 maja br. w klubie: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a> został rozegrany Memoriał Szachowy św. Andrzeja Boboli. Głównym celem Memoriału było przypomnienie postaci św. Andrzeja Boboli i Jego zasług dla Polski. Św. Andrzej Bobola jest patronem Polski; zostanie głównym patronem Polski. Zawodnicy grali 13 rund tempem 3'+3”/posunięcie. Do turnieju zapisało się 39 zawodników.</p>
         <p>Oto wyniki Memoriału:</p>
         <p>1. Michał Kopczyński , CM ranking FIDE 2225</p>
         <p>2. Piotr Polkowski, km, ranking FIDE 2116</p>
