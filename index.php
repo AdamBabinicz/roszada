@@ -17,7 +17,7 @@
     <meta property="og:title" content="Nauka gry w szachy w Akademii Marka Niedźwieckiego." />
     <meta property="og:description" content="Zapraszamy wszystkich, którzy pragną nauczyć się gry w szachy. Naprawdę warto zatrudnić szare komórki, aby zachować dobrą sprawność umysłową." />
     <meta property="og:url" content="http://roszada.radom.pl" />
-    <meta property="og:image" content="http://roszada.radom.pl/images/bobola.jfif" />
+    <meta property="og:image" content="http://roszada.radom.pl/images/Dzień_Szachów_11.png" />
     <meta property="fb:app_id" content="" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="1200" />
@@ -38,18 +38,15 @@
             <p><b><h2>TURNIEJ SZACHOWY Z OKAZJI MIĘDZYNARODOWEGO DNIA SZACHÓW
 „OSADA BIEJKÓW 136 A”
 </h2></b></p><br/>
-        
-        <br />
-        <img class="" src="regulaminy/reg.webp" alt="...">
-        <br>
-                
-<p>Szanowni Państwo, 20 lipca obchodzimy Międzynarodowy Dzień Szachów. Aby zaakcentować ten dzień Uczniowski Klub Szachowy Roszada w Radomiu przygotowuje turniej szachów błyskawicznych w niecodziennym otoczeniu!!!</p>
+       <p>Szanowni Państwo, 20 lipca obchodzimy Międzynarodowy Dzień Szachów. Aby zaakcentować ten dzień Uczniowski Klub Szachowy Roszada w Radomiu przygotowuje turniej szachów błyskawicznych w niecodziennym otoczeniu!!!</p>
         <p>Z zawodnikami spotkamy się w Biejkowie nad Pilicą, gmina Promna (Biejkow 136A, na trasie Falęcice - Warka). 
 Prezes UKS Roszada Marek Niedźwiecki proponuje ciekawy sposób spędzenia tego dnia: 4 godziny gry, spacer i plażowanie nad  rzeką, zwiedzanie plantacji roślin i  małej winnicy.</p>
         <p>Tempo gry: 10 minut + 2 sekundy/posunięcie.</p>
         <p>Nagroda I: 300 zł. Pozostałe nagrody zostaną ustalone w zależności od ilości uczestników.</p>
         <p>Po zakończeniu turnieju spotkamy się z zawodnikami przy ognisku.  W załączeniu regulamin turnieju. </p>
-        
+         <br />
+        <img class="" src="regulaminy/reg.webp" alt="...">
+        <br>
         
 
 <br/> 
