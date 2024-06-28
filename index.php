@@ -35,22 +35,21 @@
       <div class="text">
         <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-            <p><b><h2>Wyniki Memoriału im. Andrzeja Boboli.
+            <p><b><h2>TURNIEJ SZACHOWY Z OKAZJI MIĘDZYNARODOWEGO DNIA SZACHÓW
+„OSADA BIEJKÓW 136 A”
 </h2></b></p><br/>
         
         <br />
-        <img class="" src="images/bobola.jfif" alt="...">
+        <img class="" src="regulaminy/reg.webp" alt="...">
         <br>
                 
-<p>W dniu 16 maja br. w klubie: <a href="https://lichess.org/swiss/jon4AetH" target="_blank">https://lichess.org/swiss/jon4AetH</a> został rozegrany Memoriał Szachowy św. Andrzeja Boboli. Głównym celem Memoriału było przypomnienie postaci św. Andrzeja Boboli i Jego zasług dla Polski. Św. Andrzej Bobola jest patronem Polski; zostanie głównym patronem Polski. Zawodnicy grali 13 rund tempem 3'+3”/posunięcie. Do turnieju zapisało się 39 zawodników.</p>
-        <p>Oto wyniki Memoriału:</p>
-        <p>1. Michał Kopczyński , CM ranking FIDE 2225</p>
-        <p>2. Piotr Polkowski, km, ranking FIDE 2116</p>
-        <p>3. Rafał Lewandowski, k+, ranking FIDE 2106</p>
-        <p>4. Dawid Dobosiewicz I++ , ranking FIDE 2028</p>
-        <p>5. Artur Oleszczuk, II+ ranking FIDE 1721</p>
-        <br>
-        <p><b>Łączny fundusz nagród wynosił 2050 zł. Fundatorami nagród finansowych były osoby prywatne. Następny Memoriał odbędzie się w 2025 roku w diecezji kieleckiej. </b></p>
+<p>Szanowni Państwo, 20 lipca obchodzimy Międzynarodowy Dzień Szachów. Aby zaakcentować ten dzień Uczniowski Klub Szachowy Roszada w Radomiu przygotowuje turniej szachów błyskawicznych w niecodziennym otoczeniu!!!</p>
+        <p>Z zawodnikami spotkamy się w Biejkowie nad Pilicą, gmina Promna (Biejkow 136A, na trasie Falęcice - Warka). 
+Prezes UKS Roszada Marek Niedźwiecki proponuje ciekawy sposób spędzenia tego dnia: 4 godziny gry, spacer i plażowanie nad  rzeką, zwiedzanie plantacji roślin i  małej winnicy.</p>
+        <p>Tempo gry: 10 minut + 2 sekundy/posunięcie.</p>
+        <p>Nagroda I: 300 zł. Pozostałe nagrody zostaną ustalone w zależności od ilości uczestników.</p>
+        <p>Po zakończeniu turnieju spotkamy się z zawodnikami przy ognisku.  W załączeniu regulamin turnieju. </p>
+        
         
 
 <br/> 
@@ -60,8 +59,9 @@
             src="images/227242_212878705406500_1478204_n.jpg"
             alt="logo"
           />
-          <p>Radom, 26.05.2024 r.</p>
+          <p>Radom, 28.06.2024 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
+          <p>Małgorzata Cieślak-Kopyt</p>
         </div>
         <a href="#" class="popup__close clo">&times;</a>
       </div>
