@@ -63,7 +63,7 @@
             src="images/50292489b52f7_p.jpg"
             alt="logo"
           />
-          <p>Radom, 28.06.2024 r.</p>
+          <p>Radom, 08.08.2024 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
                   </div>
         <a href="#" class="popup__close clo">&times;</a>
