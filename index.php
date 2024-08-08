@@ -60,7 +60,7 @@
         <div class="img">
           <img
             class="popup_img"
-            src="images/50292489b52f7_p.jpg"
+            src="images/227242_212878705406500_1478204_n.jpg"
             alt="logo"
           />
           <p>Radom, 08.08.2024 r.</p>
