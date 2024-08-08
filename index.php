@@ -52,7 +52,7 @@
         <p>Dane należy wysłać na adres: uks.roszada@gmail.com</p>
         <p>Turniej włącza się w kampanię społeczną "Wprowadzić szachy do programu szkolnego".</p>
          <br />
-        <!-- <img class="" src="regulaminy/reg.webp" alt="..."> -->
+        <img class="" src="images/50292489b52f7_p.jpg" alt="...">
         <br>
         
 
