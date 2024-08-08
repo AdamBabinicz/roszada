@@ -35,17 +35,24 @@
       <div class="text">
         <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-            <p><b><h2>TURNIEJ SZACHOWY Z OKAZJI MIĘDZYNARODOWEGO DNIA SZACHÓW
-„OSADA BIEJKÓW 136 A”
+            <p><b><h2>Turniej szachowy z okazji 104 rocznicy Bitwy Warszawskiej
 </h2></b></p><br/>
-       <p>Szanowni Państwo, 20 lipca obchodzimy Międzynarodowy Dzień Szachów. Aby zaakcentować ten dzień Uczniowski Klub Szachowy Roszada w Radomiu przygotowuje turniej szachów błyskawicznych w niecodziennym otoczeniu!!!</p>
-        <p>Z zawodnikami spotkamy się w Biejkowie nad Pilicą, gmina Promna (Biejkow 136A, na trasie Falęcice - Warka). 
-Prezes UKS Roszada Marek Niedźwiecki proponuje ciekawy sposób spędzenia tego dnia: 4 godziny gry, spacer i plażowanie nad  rzeką, zwiedzanie plantacji roślin i  małej winnicy.</p>
-        <p>Tempo gry: 10 minut + 2 sekundy/posunięcie.</p>
-        <p>Nagroda I: 300 zł. Pozostałe nagrody zostaną ustalone w zależności od ilości uczestników.</p>
-        <p>Po zakończeniu turnieju spotkamy się z zawodnikami przy ognisku.  W załączeniu regulamin turnieju. </p>
+       <p>104 lat temu, w nocy z 8 na 9 sierpnia 1920 r. generał Tadeusz Jordan-Rozwadowski, głównodowodzący wojskami polskimi wydał rozkaz operacyjny specjalny oznaczony fikcyjnym numerem 10 000, dotyczący wykonania planu bitwy warszawskiej. Zakładał on wzmocnienie armii Sikorskiego, której poza obroną wyznaczono w następnej fazie zadania ofensywne, co było pewnym nawiązaniem do pierwotnej koncepcji Rozwadowskiego.</p>
+        <p>5 Armia po wypełnieniu zadań defensywnych miała uderzyć na północne skrzydło wroga, częściowo obejść go z północy i zepchnąć na południe. Plan ten przewidywał zatem podwójne uderzenie na bolszewików z północy, znad Wkry i z południa, znad Wieprza. Miał to być klasyczny manewr kanneński i chociaż nie wszystkie zadania w nim zawarte udało się zrealizować, to idea wzmocnienia 5 Armii i podwójnego dwuskrzydłowego uderzenia miała kolosalne znaczenie dla przebiegu bitwy.</p>
+        <p>W dniu 13 sierpnia 1920 r. rozpoczęła się wielka Bitwa Warszawska, która składała się z trzech faz:</p>
+        <p>1. walk obronnych na przedmościu warszawskim na przedpolach Radzymina;</p>
+        <p>2. bitwy obronnej i manewru zaczepnego 5. Armii gen. W. Sikorskiego nad Wkrą;</p>
+        <p>3. uderzenia w dniu 16 sierpnia Grupy Manewrowej znad Wieprza i pościg.</p>
+        <p>14 sierpnia wojska działania zaczepne na linii Wkry rozpoczęła 5. Armia gen. W. Sikorskiego mając przed sobą siły sowieckich 4 i 15 Armii. Następnego dnia 15 sierpnia 17. Dywizja Piechoty wyruszyła z Modlina i wzdłuż osi na Nasielsk zaszła nieprzyjaciela od flanki. Rosjanie zostali wyrzuceni po ciężkiej walce za Wkrę. 15 sierpnia 1920 r. armie polskie pod Warszawą i nad Wkrą, rozbiły trzy z czterech armii wroga. Dlatego też 15 sierpnia przyjmuje się jako dzień „Cudu nad Wisłą”. W dniu 16 sierpnia 5. Armia kontynuując natarcie zdobyła Nasielsk, Serock, Pułtusk, Ciechanów, Przasnysz oraz Mławę. Pobita 15. Armia wycofała się ku Narwi, zagrażając odcięciem wojsk bolszewickich, które zagalopowały się już nad Wisłę.</p>
+        <p>Bitwa warszawska jest 18 bitwą w dziejach, która zadecydowała o losach świata. Pokonanie wojsk rosyjskich pokrzyżowało plan komunistów o opanowaniu Polski i całej Europy.</p>
+        <p>Z tej właśnie okazji, tj. 104 rocznicy pokonania bolszewików pod Warszawą Akademia Szachowa Marka Niedźwieckiego organizuje turniej szachowy, który odbędzie się 13 sierpnia br. w klubie <a href="https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego" target="_blank" rel="noopener noreferrer">https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego</a></p>
+        <p>Tempo gry P'3+2" , ilość rund 9. Link do turnieju <a href="https://lichess.org/swiss/2eFmxVzt" target="_blank" rel="noopener noreferrer">https://lichess.org/swiss/2eFmxVzt</a></p>
+        <p>Nagrody w turnieju: I i II miejsce bon zakupowy po 100 zł. Nagrodzone osoby winny bezpośrednio po zakończeniu ostatniej rundy podać swoje dane osobowe: imię, nazwisko, posiadaną kategorię szachową i adres mailowy, na który zostaną wysłane kody bonów zakupowych w firmie Caissa.</p>
+        <p>Po zakończeniu turnieju spotkamy się z zawodnikami przy ognisku. W załączeniu regulamin turnieju. </p>
+        <p>Dane należy wysłać na adres: uks.roszada@gmail.com</p>
+        <p>Turniej włącza się w kampanię społeczną "Wprowadzić szachy do programu szkolnego".</p>
          <br />
-        <img class="" src="regulaminy/reg.webp" alt="...">
+        <!-- <img class="" src="regulaminy/reg.webp" alt="..."> -->
         <br>
         
 
@@ -53,13 +60,12 @@ Prezes UKS Roszada Marek Niedźwiecki proponuje ciekawy sposób spędzenia tego 
         <div class="img">
           <img
             class="popup_img"
-            src="images/227242_212878705406500_1478204_n.jpg"
+            src="images/50292489b52f7_p.jpg"
             alt="logo"
           />
           <p>Radom, 28.06.2024 r.</p>
           <p>Dyrektor Turnieju /-/ Marek Niedźwiecki</p>
-          <p>Małgorzata Cieślak-Kopyt</p>
-        </div>
+                  </div>
         <a href="#" class="popup__close clo">&times;</a>
       </div>
       </div>
