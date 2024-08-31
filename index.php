@@ -35,24 +35,26 @@
       <div class="text">
         <h2>„Wprowadzić szachy do programu szkolnego”</h2>
         <br />
-            <p><b><h2>Turniej szachowy z okazji 104 rocznicy Bitwy Warszawskiej
+            <p><b><h2>Turniej szachowy z okazji radomskiego XXVI Święta Chleba
 </h2></b></p><br/>
-       <p>104 lat temu, w nocy z 8 na 9 sierpnia 1920 r. generał Tadeusz Jordan-Rozwadowski, głównodowodzący wojskami polskimi wydał rozkaz operacyjny specjalny oznaczony fikcyjnym numerem 10 000, dotyczący wykonania planu bitwy warszawskiej. Zakładał on wzmocnienie armii Sikorskiego, której poza obroną wyznaczono w następnej fazie zadania ofensywne, co było pewnym nawiązaniem do pierwotnej koncepcji Rozwadowskiego.</p>
-        <p>5 Armia po wypełnieniu zadań defensywnych miała uderzyć na północne skrzydło wroga, częściowo obejść go z północy i zepchnąć na południe. Plan ten przewidywał zatem podwójne uderzenie na bolszewików z północy, znad Wkry i z południa, znad Wieprza. Miał to być klasyczny manewr kanneński i chociaż nie wszystkie zadania w nim zawarte udało się zrealizować, to idea wzmocnienia 5 Armii i podwójnego dwuskrzydłowego uderzenia miała kolosalne znaczenie dla przebiegu bitwy.</p>
-        <p>W dniu 13 sierpnia 1920 r. rozpoczęła się wielka Bitwa Warszawska, która składała się z trzech faz:</p>
-        <p>1. walk obronnych na przedmościu warszawskim na przedpolach Radzymina;</p>
-        <p>2. bitwy obronnej i manewru zaczepnego 5. Armii gen. W. Sikorskiego nad Wkrą;</p>
-        <p>3. uderzenia w dniu 16 sierpnia Grupy Manewrowej znad Wieprza i pościg.</p>
-        <p>14 sierpnia wojska działania zaczepne na linii Wkry rozpoczęła 5. Armia gen. W. Sikorskiego mając przed sobą siły sowieckich 4 i 15 Armii. Następnego dnia 15 sierpnia 17. Dywizja Piechoty wyruszyła z Modlina i wzdłuż osi na Nasielsk zaszła nieprzyjaciela od flanki. Rosjanie zostali wyrzuceni po ciężkiej walce za Wkrę. 15 sierpnia 1920 r. armie polskie pod Warszawą i nad Wkrą, rozbiły trzy z czterech armii wroga. Dlatego też 15 sierpnia przyjmuje się jako dzień „Cudu nad Wisłą”. W dniu 16 sierpnia 5. Armia kontynuując natarcie zdobyła Nasielsk, Serock, Pułtusk, Ciechanów, Przasnysz oraz Mławę. Pobita 15. Armia wycofała się ku Narwi, zagrażając odcięciem wojsk bolszewickich, które zagalopowały się już nad Wisłę.</p>
-        <p>Bitwa warszawska jest 18 bitwą w dziejach, która zadecydowała o losach świata. Pokonanie wojsk rosyjskich pokrzyżowało plan komunistów o opanowaniu Polski i całej Europy.</p>
-        <p>Z tej właśnie okazji, tj. 104 rocznicy pokonania bolszewików pod Warszawą Akademia Szachowa Marka Niedźwieckiego organizuje turniej szachowy, który odbędzie się 13 sierpnia br. w klubie <a href="https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego" target="_blank" rel="noopener noreferrer">https://lichess.org/team/akademia-szachowa-marka-niedzwieckiego</a></p>
-        <p>Tempo gry P'3+2" , ilość rund 9. Link do turnieju <a href="https://lichess.org/swiss/2eFmxVzt" target="_blank" rel="noopener noreferrer">https://lichess.org/swiss/2eFmxVzt</a></p>
-        <p>Nagrody w turnieju: I i II miejsce bon zakupowy po 100 zł. Nagrodzone osoby winny bezpośrednio po zakończeniu ostatniej rundy podać swoje dane osobowe: imię, nazwisko, posiadaną kategorię szachową i adres mailowy, na który zostaną wysłane kody bonów zakupowych w firmie Caissa.</p>
-        <p>Po zakończeniu turnieju spotkamy się z zawodnikami przy ognisku. W załączeniu regulamin turnieju. </p>
-        <p>Dane należy wysłać na adres: uks.roszada@gmail.com</p>
-        <p>Turniej włącza się w kampanię społeczną "Wprowadzić szachy do programu szkolnego".</p>
+       <p>W tym roku mamy przyjemność uczestniczyć w radomskim XXVI Święcie Chleba,
+które odbędzie się 6 – 8 września.</p>
+        <p>W ramach obchodów UKS Roszada zorganizuje konkurs szachowy w dniu 8 września.</p>
+        <p>Udział w zawodach mogą wziąć wszyscy chętni. Zgłoszenia należy dokonać do 6.09.br. Po upływie tego terminu zgłoszenie nie zostanie przyjęte.</p>
+        <p>W zgłoszeniu należy podać imię i nazwisko i posiadaną kategorię szachową. Powyższe informacje należy przesłać na adres mailowy:uks.roszada@gmail.com numer telefonu kontaktowego: 502-147-317.</p>
+        <p>Ilość miejsc jest ograniczona. Przewidujemy udział do 30 osób.</p>
+        <p>Program konkursu: niedziela 08.09.2024 r.:</p>
+        <p>10:00÷ 10:10– weryfikacja zgłoszeń;</p>
+        <p>10:10÷ 10:20– odprawa techniczna;</p>
+        <p>10:20 ÷ 10:25 – uroczyste otwarcie konkursu;</p>
+        <p>10:25 ÷ 11:10 – konkurs szachowy</p>
+        <p>Ogłoszenie wyników, wręczenie pucharu, medali i nagród rzeczowych nastąpi ok. godziny 11:45.</p>
+        <p>Miejsce: Plac Corazziego-ul. Żeromskiego 53, Radom, w pobliżu pomnika Jana Kochanowskiego.</p>
+        <p>Opłata startowa: nie obowiązuje.</p>
+        <p>Sposób przeprowadzenia konkursu: zawodnicy dostaną do rozwiązania 12 zadań szachowych o tematyce „Mat w jednym posunięciu” i 12 zadań „Mat w 2 posunięciach”. O kolejności decyduje ilość zdobytych punktów. W przypadku ich równości decyduje krótszy czas rozwiązania. Zawodnicy winni przynieść ze sobą przybory piśmienne np.ołówek, długopis, sztywną podkładkę np. tekturkę oraz karimatę, (może być też koc lub poduszka do siedzenia).</p>
+        <p>Nagrody: I miejsce puchar. Medale dla trzech pierwszych miejsc. Organizatorzy ufundują minimum 6 nagród rzeczowych. Spośród zawodników nienagrodzonych zostanie rozlosowanych 5 książek ”Sztuka matowania” autorstwa Marka Niedźwieckiego.</p>
          <br />
-        <img class="" src="images/50292489b52f7_p.jpg" alt="...">
+        <img class="" src="images/chleb.jpg" alt="...">
         <br>
         
 
