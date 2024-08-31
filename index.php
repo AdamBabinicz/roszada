@@ -41,7 +41,7 @@
 które odbędzie się 6 – 8 września.</p>
         <p>W ramach obchodów UKS Roszada zorganizuje konkurs szachowy w dniu 8 września.</p>
         <p>Udział w zawodach mogą wziąć wszyscy chętni. Zgłoszenia należy dokonać do 6.09.br. Po upływie tego terminu zgłoszenie nie zostanie przyjęte.</p>
-        <p>W zgłoszeniu należy podać imię i nazwisko i posiadaną kategorię szachową. Powyższe informacje należy przesłać na adres mailowy:uks.roszada@gmail.com numer telefonu kontaktowego: 502-147-317.</p>
+        <p>W zgłoszeniu należy podać imię i nazwisko i posiadaną kategorię szachową. Powyższe informacje należy przesłać na adres mailowy: <a href="mailto:uks.roszada@gmail.com">uks.roszada@gmail.com</a>, numer telefonu kontaktowego: <a href="tel:+48502-147-317"> 502-147-317</a>.</p>
         <p>Ilość miejsc jest ograniczona. Przewidujemy udział do 30 osób.</p>
         <p>Program konkursu: niedziela 08.09.2024 r.:</p>
         <p>10:00÷ 10:10– weryfikacja zgłoszeń;</p>
@@ -49,7 +49,7 @@ które odbędzie się 6 – 8 września.</p>
         <p>10:20 ÷ 10:25 – uroczyste otwarcie konkursu;</p>
         <p>10:25 ÷ 11:10 – konkurs szachowy</p>
         <p>Ogłoszenie wyników, wręczenie pucharu, medali i nagród rzeczowych nastąpi ok. godziny 11:45.</p>
-        <p>Miejsce: Plac Corazziego-ul. Żeromskiego 53, Radom, w pobliżu pomnika Jana Kochanowskiego.</p>
+        <p>Miejsce: Plac Corazziego - ul. Żeromskiego 53, Radom, w pobliżu pomnika Jana Kochanowskiego.</p>
         <p>Opłata startowa: nie obowiązuje.</p>
         <p>Sposób przeprowadzenia konkursu: zawodnicy dostaną do rozwiązania 12 zadań szachowych o tematyce „Mat w jednym posunięciu” i 12 zadań „Mat w 2 posunięciach”. O kolejności decyduje ilość zdobytych punktów. W przypadku ich równości decyduje krótszy czas rozwiązania. Zawodnicy winni przynieść ze sobą przybory piśmienne np.ołówek, długopis, sztywną podkładkę np. tekturkę oraz karimatę, (może być też koc lub poduszka do siedzenia).</p>
         <p>Nagrody: I miejsce puchar. Medale dla trzech pierwszych miejsc. Organizatorzy ufundują minimum 6 nagród rzeczowych. Spośród zawodników nienagrodzonych zostanie rozlosowanych 5 książek ”Sztuka matowania” autorstwa Marka Niedźwieckiego.</p>
